@@ -1,0 +1,12 @@
+{
+    "name": "wndrfl/hoax",
+    "description": "A library for generating fake content.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Johnnie Munger",
+            "email": "johnnie@letsgetwonderful.com"
+        }
+    ],
+    "require": {}
+}
