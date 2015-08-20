@@ -1,4 +1,4 @@
-<?php namespace DiggersList\Helpers;
+<?php namespace Wndrfl\Hoax;
 
 class Hoax {
 
